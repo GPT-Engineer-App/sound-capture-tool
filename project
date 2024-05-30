@@ -1,0 +1,16 @@
+   npm init -y
+   ```
+
+2. **Install dependencies:**
+   ```sh
+   npm install electron electron-vite react react-dom @reduxjs/toolkit react-redux
+   ```
+
+3. **Install development dependencies:**
+   ```sh
+   npm install --save-dev @vitejs/plugin-react vite
+   ```
+
+### Step 2: Project Structure
+
+Create the following file structure:
